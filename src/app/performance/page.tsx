@@ -6,7 +6,7 @@ export default function PerformancePage() {
 	return (
 		<div>
 			<Hero
-				imgAlt={"WEILDING IMAGE"}
+				imgAlt={"WIELDING IMAGE"}
 				imgData={performanceImage}
 				title="Blazing fast performance" 
 			/>

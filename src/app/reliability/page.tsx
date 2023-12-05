@@ -5,7 +5,7 @@ export default function Reliability() {
 	return (
 		<>
 			<Hero
-				imgAlt={"WEILDING IMAGE"}
+				imgAlt={"WIELDING IMAGE"}
 				imgData={reliabilityImg}
 				title="Super high reliability hosting"
 			/>
